@@ -1,0 +1,5 @@
+---
+# tasks file for nodejs
+- name: Print debug message
+  debug:
+    msg: Hello, World!
